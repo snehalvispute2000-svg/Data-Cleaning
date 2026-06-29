@@ -6,10 +6,11 @@ The goal of this project was to clean, structure, and preprocess a raw, unformat
 ---
 
 ## 🛠️ Tools & Libraries Used
-* **Platform:** Google Colab / VS Code
+* **Platform:** Google Colab
 * **Language:** Python 3.14
 * **Core Library:** Pandas (Data manipulation and transformation)
 * **Data Generation:** Faker (For scaling out a realistic 500+ row simulation)
+* **For Coding Help:** Gemini 
 
 ---
 
