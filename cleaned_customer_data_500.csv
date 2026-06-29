@@ -1,0 +1,104 @@
+customer_id,full_name,age,gender,join_date,country_name,annual_salary
+1304,Maria Parker,61,Female,2025-02-04,Canada,77942
+1153,  Devon Flores  ,21,Female,2024-10-13,Canada,36868
+1204,Erin Warner,28,Male,2023-07-28,Canada,86387
+1325,Patrick Moore,22,Female,2025-02-13,Canada,65804
+1324,Natalie Bautista,33,Female,2026-06-17,Canada,84287
+1184,Lindsay Martinez,28,Female,2025-01-13,UK,39632
+1382,Douglas Gregory,29,Female,2024-02-23,UK,83088
+1331,Colton Martinez,59,Female,2023-10-30,UK,44534
+1140,  Cheyenne Horton  ,34,Male,2023-07-24,UK,52871
+1177,  Michael Wang  ,35,Female,2024-12-28,Canada,92781
+1077,Megan Young,36,Female,2025-02-21,USA,47781
+1468,  Katie Mcneil  ,50,Female,2025-09-17,Canada,106064
+1457,Brenda Thornton,43,Female,2025-12-02,UK,37456
+1002,Angie Henderson,19,Female,2025-06-09,Canada,70492
+1341,Cynthia Morris,31,Female,2026-01-22,USA,58903
+1018,  Lisa Jackson  ,23,Female,2024-11-05,USA,95771
+1039,Brittany Farmer,28,Female,2023-07-27,USA,100329
+1446,  Brenda Wright  ,70,Female,2024-05-21,Canada,69691
+1203,Joseph Coleman,66,Female,2025-07-22,USA,109354
+1450,Brittany Kim,24,Male,2025-12-17,Canada,76129
+1148,  Kathy Rivas  ,26,Female,2026-02-20,UK,107182
+1275,Matthew Moore,22,Female,2025-02-08,Canada,102972
+1495,Lawrence Harrington,52,Male,2026-04-25,Canada,50807
+1268,Cynthia Rowe,63,Female,2024-05-09,Canada,59643
+1356,Jesse Perry,68,Female,2025-08-29,Canada,86446
+1075,Sarah Moore,32,Male,2024-03-29,USA,60775
+1265,Joshua Reed,32,Female,2026-05-10,USA,45058
+1412,Julian Conner,60,Female,2025-12-09,USA,76019
+1456,Dustin Gallegos,53,Female,2023-10-30,USA,34929
+1126,Michelle Evans,38,Male,2024-05-12,USA,102641
+1218,Justin Torres,21,Male,2023-08-02,Canada,84524
+1286,Joseph Knight,54,Female,2024-09-23,Canada,30800
+1422,Michael Mitchell,54,Female,2023-08-02,USA,50036
+1023,  Tommy Walter  ,19,Male,2026-01-10,Canada,68684
+1116,William Herrera,70,Female,2026-01-27,USA,113819
+1110,Richard Rodriguez,61,Female,2024-12-10,Canada,46011
+1026,Justin Baker,63,Male,2023-09-08,UK,91385
+1394,Tamara Davis,20,Female,2025-03-17,USA,107184
+1037,Cassandra Gaines,66,Female,2023-11-28,USA,31824
+1144,Amber Wright,55,Female,2024-02-19,USA,47275
+1141,David Douglas Jr.,65,Female,2026-04-29,USA,44408
+1408,Anthony Romero,43,Female,2024-11-16,Canada,99547
+1228,Michael Bradshaw,52,Male,2026-02-09,USA,38799
+1109,Sharon Cochran,32,Female,2024-10-22,USA,54878
+1103,Christine Wright,47,Male,2024-12-09,UK,101364
+1074,Amy Silva,60,Male,2026-01-11,UK,42739
+1261,Desiree Tyler,55,Female,2025-07-09,UK,44184
+1280,Amanda Jones,49,Male,2025-04-02,USA,33794
+1196,  Daniel Salinas  ,37,Male,2025-12-09,USA,72622
+1111,Shannon Walker,38,Male,2024-02-07,USA,89600
+1089,Aimee Montoya,31,Female,2025-03-07,Canada,94139
+1006,Abigail Shaffer,32,Male,2024-12-26,Canada,77823
+1150,  David Wright  ,49,Male,2024-11-25,USA,77942
+1198,Adam Vaughan,50,Male,2025-07-06,Canada,108301
+1404,  Joann Glass  ,31,Female,2024-11-06,UK,40011
+1402,Mary Thompson,38,Male,2025-01-08,USA,73655
+1239,Yvonne Chambers,45,Female,2024-07-08,UK,103608
+1097,Deborah Figueroa,58,Male,2024-09-27,Canada,88287
+1246,Krista Gibson,63,Female,2024-01-25,USA,117207
+1125,Erin Edwards,63,Male,2023-10-13,Canada,38992
+1223,Theresa Clark,64,Female,2023-12-11,USA,117177
+1219,Bailey Duran DDS,33,Female,2026-05-03,USA,42463
+1388,  Sandra Drake  ,43,Male,2025-08-08,USA,77428
+1365,  Kenneth Lewis  ,21,Male,2026-03-06,USA,76421
+1233,  Laura Roberts  ,48,Female,2024-06-19,USA,42656
+1164,Michael Powell,42,Male,2025-10-13,USA,44293
+1120,Larry Dixon,43,Female,2025-03-05,UK,73713
+1414,Erica Alvarez,37,Female,2025-03-23,Canada,49358
+1285,Elaine Brooks,43,Male,2023-08-25,USA,76009
+1423,Mary Escobar,24,Male,2024-09-19,UK,115918
+1381,Paul Wilson,23,Female,2025-06-25,USA,45096
+1133,Daniel Kennedy,27,Female,2025-03-23,UK,108116
+1395,Dana Chapman,57,Female,2023-12-10,USA,82487
+1012,Lisa Hensley,52,Male,2026-06-25,USA,53021
+1424,Felicia Aguilar,22,Male,2025-10-18,Canada,39876
+1004,Cristian Santos,35,Male,2023-10-31,Canada,34373
+1226,Kirk Carter,43,Male,2025-10-25,Canada,50006
+1171,Darlene Miller,61,Female,2025-11-16,USA,98347
+1292,Jeremy Reed,44,Female,2026-04-12,USA,77942
+1327,Trevor Johnson,43,Female,2026-04-22,UK,97154
+1138,David Alvarez,53,Female,2024-12-26,Canada,100807
+1128,  Cameron Fisher  ,59,Male,2025-05-03,UK,106858
+1326,Brett Burns,46,Female,2024-12-21,USA,77942
+1156,Joshua Perry,58,Female,2025-10-13,USA,98955
+1040,Paula Moreno,62,Female,2025-02-25,UK,46199
+1295,John Young,24,Male,2026-02-15,UK,34018
+1251,  Olivia Harris  ,41,Male,2024-05-20,Canada,70953
+1303,Sara Fuller,21,Male,2025-03-19,USA,50631
+1259,Mrs. Kristen Reyes,39,Male,2024-04-23,UK,77942
+1389,Scott Williams,25,Female,2023-09-22,UK,41551
+1049,Eric Carney,23,Male,2025-01-25,UK,78689
+1366,Courtney Rodriguez,55,Male,2025-08-08,Canada,39447
+1166,Alyssa Long,47,Female,2026-06-17,UK,96039
+1319,  Connie Brown  ,26,Female,2023-07-09,Canada,116761
+1169,Daniel Murphy,53,Female,2026-06-01,Canada,35683
+1313,Tracy Ballard,43,Female,2024-09-06,UK,110981
+1459,Ruben Dunn,36,Male,2025-10-15,Canada,67627
+1443,Holly Valentine,51,Male,2024-02-28,Canada,91462
+1099,Stephen Mckee,52,Male,2024-12-25,UK,77537
+1087,Christopher Bass,41,Female,2025-04-22,Canada,115841
+1214,Julie Alexander,41,Male,2025-05-08,Canada,84239
+1121,Kenneth Scott,35,Male,2024-06-12,USA,61925
+1071,Whitney Peters,63,Female,2024-07-12,USA,77942
